@@ -12,6 +12,7 @@ This Repo contains the following:
 - Run the script to go from raw to final data
 - Each step has a description
 
-## "SamsungGalaxySIITest-Average-measurements-for-30-volunteers.csv":
+## "SamsungGalaxySIITest-Average-measurements-for-30-volunteers.txt":
 - Final dataset
-- in csv format
+- in txt format
+- Contains column names, no row names
