@@ -99,7 +99,7 @@ tBodyGyroJerkMean
 - STEP 8. Creating new dataset with the average for each variable and each subject
 
 All the steps are recorded in:
-"Instructions to perform the analysis.R" file
+"run analysis.R" file
 
 ### Final dataset
 
