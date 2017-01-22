@@ -103,8 +103,9 @@ All the steps are recorded in:
 
 ### Final dataset
 
-- Name: SamsungGalaxySIITest-Average-measurements-for-30-volunteers.csv
-- Format: csv
+- Name: SamsungGalaxySIITest-Average-measurements-for-30-volunteers.txt
+- Format: txt
+- Contains Column Names, but no Row Names
 - Number of observations: 40
 - Number of variables: 68
 
